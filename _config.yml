@@ -6,7 +6,7 @@
 name: Tshilidzi Mudau
 
 # Short bio or description (displayed in the header)
-description: MSc Deep Learning (University of Johannesburg)
+description: MSc Computer Science - AI (University of Johannesburg)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/22518730?v=3&s=400
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/TshilidziMudau"
+baseurl: "/TshilidziMudau/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
